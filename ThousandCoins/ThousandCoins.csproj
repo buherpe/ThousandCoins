@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoinToss.cs" />
+    <Compile Include="Models\Coin.cs" />
+    <Compile Include="Models\Person.cs" />
+    <Compile Include="SideOfTheCoin.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
